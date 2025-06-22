@@ -17,7 +17,7 @@ A secure Node.js/Express API with JWT authentication and MongoDB for user manage
 
 ## Endpoints
 - `POST /api/v1/login`: Authenticate user and return JWT
-- `GET /api/v1/dashboard`: Access protected dashboard (requires JWT)
+- `GET /api/v1/dashboard`: Access protected dashboard
 
 ## Tech Stack
 - Node.js, Express
